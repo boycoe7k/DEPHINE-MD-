@@ -71,9 +71,9 @@ Type `.menu` in WhatsApp for the full command list.
 
 ---
 
-## Channel Forward
+## Join our channel for updates 
 
-All bot messages appear as forwarded from:  
+All updates from:  
 **https://whatsapp.com/channel/0029VbBxPYN2kNFj3I1H1e0f**
 
 ---
